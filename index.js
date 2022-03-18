@@ -103,7 +103,7 @@ const syncSubscription = (sub) => {
                                 .setStyle('LINK'),
                             new Discord.MessageButton()
                                 .setLabel('Acheter')
-                                .setURL(`https://www.vinted.fr/transaction/buy/new?source_screen=item&transaction%5Bitem_id%5D=${item.id}`)
+                                .setURL(`https://www.vinted.fr/}`)
                                 .setEmoji('💸')
                                 .setStyle('LINK')
                         ])
